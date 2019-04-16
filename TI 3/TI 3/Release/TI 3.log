@@ -1,0 +1,13 @@
+﻿  pch.cpp
+  TI 3.cpp
+c:\users\nikita\source\repos\ti 3\ti 3\ti 3.cpp(154): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\nikita\source\repos\ti 3\ti 3\ti 3.cpp(155): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\nikita\source\repos\ti 3\ti 3\ti 3.cpp(190): warning C4114: множественное использование одного и того же квалификатора типа
+c:\users\nikita\source\repos\ti 3\ti 3\ti 3.cpp(216): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  TI2.cpp
+  tree.cpp
+  Создание кода
+c:\users\nikita\source\repos\ti 3\ti 3\ti 3.cpp(255): warning C4715: test1: значение возвращается не при всех путях выполнения
+  All 339 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  TI 3.vcxproj -> C:\Users\nikita\source\repos\TI 3\Release\TI 3.exe

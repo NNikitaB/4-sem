@@ -1,0 +1,7 @@
+﻿  TI 3.cpp
+c:\users\nikita\source\repos\ti 3\ti 3\ti 3.cpp(154): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\nikita\source\repos\ti 3\ti 3\ti 3.cpp(155): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\nikita\source\repos\ti 3\ti 3\ti 3.cpp(212): warning C4114: множественное использование одного и того же квалификатора типа
+c:\users\nikita\source\repos\ti 3\ti 3\ti 3.cpp(238): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\users\nikita\source\repos\ti 3\ti 3\ti 3.cpp(277): warning C4715: test1: значение возвращается не при всех путях выполнения
+  TI 3.vcxproj -> C:\Users\nikita\source\repos\TI 3\Debug\TI 3.exe
